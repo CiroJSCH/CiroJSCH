@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CiroJSCH&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Insignias Oracle Next Education
-![](https://postimg.cc/s17Cr6MD) ![](https://postimg.cc/SJG0XnLB)
+![](https://i.postimg.cc/L409jGRf/cms-files-10224-1644515319-BADGE-2.png) ![](https://i.postimg.cc/RVkvDfWZ/cms-files-10224-1644516322badge.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
