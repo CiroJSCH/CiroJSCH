@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CiroJSCH&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Insignias Oracle Next Education
-![](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515319BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_esp&utm_medium=email&utm_source=RD+Station) ![](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png?utm_campaign=alura_latam_-_challenge_email_projeto_2_esp&utm_medium=email&utm_source=RD+Station)
+![](https://postimg.cc/s17Cr6MD) ![](https://postimg.cc/SJG0XnLB)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
